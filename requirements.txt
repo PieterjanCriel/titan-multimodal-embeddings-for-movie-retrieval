@@ -1,0 +1,5 @@
+boto3
+gradio
+requests
+pillow
+pandas

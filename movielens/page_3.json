@@ -1,0 +1,1054 @@
+{
+    "status": "success",
+    "data": {
+        "title": null,
+        "description": null,
+        "url": null,
+        "searchResults": [
+            {
+                "movieId": 282649,
+                "rec_val_type": "",
+                "tstamp": null,
+                "movie": {
+                    "movieId": 282649,
+                    "tmdbMovieId": 631842,
+                    "imdbMovieId": "15679400",
+                    "title": "Knock at the Cabin",
+                    "originalTitle": "Knock at the Cabin",
+                    "mpaa": "R",
+                    "runtime": 100,
+                    "releaseDate": "2023-02-01",
+                    "dvdReleaseDate": null,
+                    "genres": [
+                        "Thriller",
+                        "Mystery",
+                        "Horror"
+                    ],
+                    "languages": [
+                        "English"
+                    ],
+                    "directors": [
+                        "M. Night Shyamalan"
+                    ],
+                    "actors": [
+                        "Dave Bautista",
+                        "Jonathan Groff",
+                        "Ben Aldridge",
+                        "Nikki Amuka-Bird",
+                        "Rupert Grint",
+                        "Abby Quinn",
+                        "Kristen Cui",
+                        "McKenna Kerrigan",
+                        "Ian Merrill Peakes",
+                        "Denise Nakano",
+                        "Rose Luardo",
+                        "Billy Vargus",
+                        "Satomi Hofmann",
+                        "Kevin Leung",
+                        "Lee Avant",
+                        "Odera Adimorah",
+                        "Kat Murphy",
+                        "Kittson O'Neill",
+                        "Lya Yanne",
+                        "M. Night Shyamalan",
+                        "Clare Louise Frost",
+                        "Hanna Gaffney",
+                        "Monica Fleurette",
+                        "Saria Chen"
+                    ],
+                    "posterPath": "/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",
+                    "backdropPaths": [
+                        "/1dubuCInk9DM9JBjiItBGkkkZx0.jpg",
+                        "/zWDMQX0sPaW2u0N2pJaYA8bVVaJ.jpg",
+                        "/aHcWyh0n4YbBy9gxYCDlgsNVS3M.jpg",
+                        "/zM9RGbJBZ3UNpFOabcRqh0iVAYP.jpg",
+                        "/22z44LPkMyf5nyyXvv8qQLsbom.jpg",
+                        "/hegMHNsxYGlGgVgaGz9FqxPqImr.jpg",
+                        "/rQ2iipapYAhhofC0S2jnVTU2wff.jpg",
+                        "/sANUefL2v8VI6fSfK3gWAG3XBt4.jpg",
+                        "/leh986WG55FzuexU8PajdOhm5yQ.jpg",
+                        "/smmCn1z0Qmviz3LOHoR8ob4xF9D.jpg",
+                        "/cJxWyYfYXmHGFYDQXKkyHcxsbvh.jpg",
+                        "/2oqhD3ceejcjELPhJ6ykMxoi8WD.jpg",
+                        "/5JGTssD3jTqFcuxDa8DV8CexR5H.jpg",
+                        "/iV5hE0GpH6e4ZyYvkN1eTORn7cB.jpg",
+                        "/x697pkQ2u9eUZTXejZK6vVieLzr.jpg",
+                        "/oHsBgbkv3PrXXNuKVHIWDnF46us.jpg",
+                        "/3dDN4xptNMyM7ojJka1ZmMLbvru.jpg",
+                        "/xZccWNz4v4dJDAPUwrrJKihq1F6.jpg",
+                        "/gH0FHLbOgDIxCkwwzgh14pdnc5p.jpg",
+                        "/bqxK2eMqKsG6RI992oTtRKKFIsj.jpg",
+                        "/xbxvqI5J8CTxEod6mzTvnqJZHXg.jpg",
+                        "/dwDYUm0HqO6t2gDV6lJUWP43WqH.jpg",
+                        "/obbLwJSHsSigoE6O0IFB4x0ie0h.jpg",
+                        "/z9Vu7scfdUhzRyVwupydpoHUxsP.jpg",
+                        "/xvEj0a0CQz4HTwLPZjppQC0lYGK.jpg",
+                        "/tX7HWcHs4sdxLqocU1iPtxnzV09.jpg",
+                        "/gH8koRKJn8KgyCWy73lgSrCdFEH.jpg",
+                        "/jo32M1XQnZusK2fAC0mND1ajDPo.jpg",
+                        "/64wGwqOeVzQKrUi5EYIWKkbmo7e.jpg",
+                        "/sY2nOFMssGai22gVtWva0ix61Kq.jpg",
+                        "/yGOrY7hwgCl7wlKxnARt5PgxT6s.jpg"
+                    ],
+                    "youtubeTrailerIds": [
+                        "0wiBHEACNHs",
+                        "gv_QhoUy-xc",
+                        "vnR2Guu3atA",
+                        "aFWKrxBfZls",
+                        "ERFdDixdXuY",
+                        "fn1qEsjvQtk",
+                        "sPzGSs5KK6w"
+                    ],
+                    "plotSummary": "While vacationing at a remote cabin, a young girl and her two fathers are taken hostage by four armed strangers who demand that the family make an unthinkable choice to avert the apocalypse. With limited access to the outside world, the family must decide what they believe before all is lost.",
+                    "numRatings": 340,
+                    "avgRating": 2.93529,
+                    "releaseYear": "2023"
+                },
+                "movieUserData": {
+                    "userId": 326672,
+                    "movieId": 282649,
+                    "rating": null,
+                    "dateRated": null,
+                    "prediction": 3.246999202225866,
+                    "wishlist": false,
+                    "hidden": false,
+                    "predictionDetails": {
+                        "primaryPrediction": 3.246999202225866,
+                        "primaryPredictionType": "USER",
+                        "components": [
+                            {
+                                "pred": 3.246999202225866,
+                                "type": "USER"
+                            },
+                            {
+                                "pred": 3.086796890492544,
+                                "type": "FALLBACK"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "movieId": 281904,
+                "rec_val_type": "",
+                "tstamp": null,
+                "movie": {
+                    "movieId": 281904,
+                    "tmdbMovieId": 667216,
+                    "imdbMovieId": "10365998",
+                    "title": "Infinity Pool",
+                    "originalTitle": "Infinity Pool",
+                    "mpaa": "R",
+                    "runtime": 118,
+                    "releaseDate": "2023-01-27",
+                    "dvdReleaseDate": null,
+                    "genres": [
+                        "Horror",
+                        "Science Fiction",
+                        "Thriller"
+                    ],
+                    "languages": [
+                        "English"
+                    ],
+                    "directors": [
+                        "Brandon Cronenberg"
+                    ],
+                    "actors": [
+                        "Alexander Skarsgård",
+                        "Mia Goth",
+                        "Cleopatra Coleman",
+                        "Jalil Lespert",
+                        "Amanda Brugel",
+                        "John Ralston",
+                        "Jeff Ricketts",
+                        "Caroline Boulton",
+                        "Thomas Kretschmann",
+                        "Roderick Hill",
+                        "Adam Boncz",
+                        "Alan Katić",
+                        "Alexandra Tóth",
+                        "Dunja Sepčić Bogner",
+                        "Zijad Gračić",
+                        "Amar Bukvić",
+                        "Katalin Lábán",
+                        "Kamilla Fátyol",
+                        "Lena Juka Stambuk",
+                        "Kristóf Kovács",
+                        "Romina Tonković",
+                        "Hajnalka Zsigár",
+                        "Anita Major",
+                        "Gergely Trócsányi",
+                        "Géza Kovács",
+                        "Alexandra Tóth"
+                    ],
+                    "posterPath": "/kHLm4E0jSGnDRqo2ZFgEQQeQK6M.jpg",
+                    "backdropPaths": [
+                        "/1xhcEecvRJXQ2OAVO7l9btlrN6D.jpg",
+                        "/lt0Z2aENqDUJkkxBxUnaW2r1o2o.jpg",
+                        "/jPkz6Ktvqn9JOAqxBeXPinPYKON.jpg",
+                        "/6TUgbrbTaA3vrAFQIzX3zGy6pl9.jpg",
+                        "/jkJrgiyYT1Rzsqk3U5HlZWRj8hf.jpg",
+                        "/9RjysFdKw9fbTd2GZIU3tFIlyom.jpg",
+                        "/83yShlgGlIzQhK32CKDjWXDNYbu.jpg",
+                        "/lIulkr7fr5rDbbxAuhK29fcjjCP.jpg",
+                        "/gmBJmDJd8Lz44FApFOpqn1tNDnd.jpg",
+                        "/4L9812YXZbmYBatynIeMenmoUb.jpg",
+                        "/rcBS3Ve7sSueSsgpYJtPm9Ut3nx.jpg",
+                        "/pih22FENU4rdoH1dmssrwkrO7ia.jpg",
+                        "/n3IwVowIBa6AZ2KQmOyQXbiwSyE.jpg",
+                        "/qceDOYEPv5SlJOwXQLzQyLLQJy1.jpg",
+                        "/cQNz2XLUS6Rwd8Ef977GSdiWaSN.jpg",
+                        "/AlIrrQeUk0pygc39NfJR7KzaBoF.jpg",
+                        "/23gJQt4xQGc8rhqZMXu07ifEtxg.jpg",
+                        "/iv3kEgArlPDZ6bpruXSsAAvBnkp.jpg",
+                        "/bUqt2Bl9CqpbxXNUn5rmJZOwCTD.jpg",
+                        "/rgIVwfHU027BXHgyUMy57yAW6Q0.jpg",
+                        "/gfTBLIMSL7cgVq0DnbLgUJ4iAIR.jpg",
+                        "/uj4EGJz0dOHFjt9kh8WiZne6Apn.jpg",
+                        "/dywbBul8oVmF9F220EP17O3tDvE.jpg",
+                        "/AnUMPmNjnsYMTEjxeKHOL4IBsFP.jpg",
+                        "/55V50klyESYnVOW6tDt5wetV2uJ.jpg"
+                    ],
+                    "youtubeTrailerIds": [
+                        "PVnIMvVEkrA",
+                        "W5mfHz-5dx8"
+                    ],
+                    "plotSummary": "While staying at an isolated island resort, James and Em are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi, they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror. A tragic accident leaves them facing a zero tolerance policy for crime: either you'll be executed, or, if you’re rich enough to afford it, you can watch yourself die instead.",
+                    "numRatings": 239,
+                    "avgRating": 3.2364,
+                    "releaseYear": "2023"
+                },
+                "movieUserData": {
+                    "userId": 326672,
+                    "movieId": 281904,
+                    "rating": null,
+                    "dateRated": null,
+                    "prediction": 3.5505318464499687,
+                    "wishlist": false,
+                    "hidden": false,
+                    "predictionDetails": {
+                        "primaryPrediction": 3.5505318464499687,
+                        "primaryPredictionType": "USER",
+                        "components": [
+                            {
+                                "pred": 3.5505318464499687,
+                                "type": "USER"
+                            },
+                            {
+                                "pred": 3.3752281908611264,
+                                "type": "FALLBACK"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "movieId": 283139,
+                "rec_val_type": "",
+                "tstamp": null,
+                "movie": {
+                    "movieId": 283139,
+                    "tmdbMovieId": 840326,
+                    "imdbMovieId": "14846026",
+                    "title": "Sisu",
+                    "originalTitle": "Sisu",
+                    "mpaa": "R",
+                    "runtime": 91,
+                    "releaseDate": "2023-01-27",
+                    "dvdReleaseDate": null,
+                    "genres": [
+                        "Action",
+                        "War"
+                    ],
+                    "languages": [
+                        "English",
+                        "suomi"
+                    ],
+                    "directors": [
+                        "Jalmari Helander"
+                    ],
+                    "actors": [
+                        "Jorma Tommila",
+                        "Aksel Hennie",
+                        "Jack Doolan",
+                        "Mimosa Willamo",
+                        "Onni Tommila",
+                        "Tatu Sinisalo",
+                        "Wilhelm Enckell",
+                        "Vincent Willestrand",
+                        "Arttu Kapulainen",
+                        "Elina Saarela",
+                        "Ilkka Koivula",
+                        "Max Ovaska",
+                        "Joel Hirvonen",
+                        "Pekka Huotari",
+                        "Severi Saarinen",
+                        "Aamu Milonoff",
+                        "Joonas Brilli",
+                        "Nicholas Francett",
+                        "Kevin Francett",
+                        "Eemeli Franssi",
+                        "Jussi Kaila",
+                        "Jarkko Klemetti",
+                        "Henri Koljonen",
+                        "Pekka Laakso",
+                        "Martti Näätä Leinonen",
+                        "Joosua Oja",
+                        "Pietari Paappanen",
+                        "Oskari Skyttä",
+                        "Tomi Lampinen",
+                        "Mila Leppälä",
+                        "Jasmi Mäenpää",
+                        "Nora Nevia",
+                        "Jenna Tyni",
+                        "Anssi-Pekka Fredriksson",
+                        "Jarmo Hietamäki",
+                        "Wellu Mikkonen",
+                        "Akseli Hakovirta",
+                        "Juho-Lauri Hakovirta",
+                        "Iisko Hirvasvuopio",
+                        "Sakari Maliniemi",
+                        "Jukka Vuorela",
+                        "Ari Joki",
+                        "Nikita Makkojev",
+                        "Jasmin Valjas",
+                        "Linnea Vilppunen",
+                        "Hannu Anttila",
+                        "Mario Esposito",
+                        "Tarmo Hassinen",
+                        "Miia Heikkinen",
+                        "Kimmo Henriksson",
+                        "Arto Kairajärvi",
+                        "Risto Korhonen",
+                        "Mirva Korvala",
+                        "Steven Madlin",
+                        "Julia Malmsten",
+                        "Annika Moisio",
+                        "Kari Parkkinen",
+                        "Tommi Pelkonen",
+                        "Arto Peltomäki",
+                        "Leena Sormunen",
+                        "Pekka Virkkunen",
+                        "Jukka Virtanen",
+                        "Tinwelindon Belbog"
+                    ],
+                    "posterPath": "/ygO9lowFMXWymATCrhoQXd6gCEh.jpg",
+                    "backdropPaths": [
+                        "/pBdQ4iorzRV2G38mdS6rzrmUfMA.jpg",
+                        "/oGZhlVTBMZrHPuvGy8o6N4K8xGI.jpg",
+                        "/zLWbf4JagbUfue0PWVOVzAQD1JA.jpg",
+                        "/o9bbojtrrpl0yriiTmzC3Lp3OhA.jpg",
+                        "/nyZ8e7lRRwdF21NyydRIo0B9AXZ.jpg",
+                        "/bfw9ZTjH4d9BYy19sp6D77Tb1C1.jpg",
+                        "/21Xwwch4GyA0MbHNE4b79Rt0zkK.jpg",
+                        "/qUfqgX09N2bu4dusAlP72bBYHPO.jpg",
+                        "/aKBl2YIVTQHuIDDkaqQn4OoVISn.jpg",
+                        "/ls4B9xY68cK0IIImu4gB2NRC1y5.jpg",
+                        "/uuyi6Rf7Zq1YSBHVnVb1iGnoAjT.jpg",
+                        "/94TIUEhuwv8PhdIADEvSuwPljS5.jpg",
+                        "/dyEFecVm4GwpQQkDXpOyxWFO5Gm.jpg",
+                        "/exI61quYa7xMfcIDSp674UnvrhG.jpg",
+                        "/3PC5TtecVBABhODJbBZPWBQopZO.jpg",
+                        "/niwqKuLXArK08fImLhRNIRVE60o.jpg",
+                        "/uFLzSk7Tmqwrer4OIMnErZx6w92.jpg",
+                        "/vgfAwYNhcE1u2qA3WQguohCTeoe.jpg",
+                        "/7Zdqv6yVyVNUX3cdJW00Q3995Fa.jpg",
+                        "/dSOwD1joxpveVVOu1r0UqLuv8r4.jpg",
+                        "/oc003wV5sXC383DWMKqJ6tdTI55.jpg",
+                        "/x9Misp6hEpA8k9VsrTLfFZ0SK46.jpg",
+                        "/nZ0EL500pKwGCOhYWYwmU9YSiis.jpg",
+                        "/xH9r17NqdtevnXtTWpRJmrHjpcM.jpg",
+                        "/l3hKydTgDmneEMNai8yehdR3sRX.jpg",
+                        "/iVihk4mljdYdqORvk2odh2b19ra.jpg",
+                        "/7oUi1ZTn0Kiruykr3qLMgLOwsKx.jpg",
+                        "/7wGbeXTCW83nQAOw1sbAhA7oKiS.jpg",
+                        "/xwVcOoj0RFxQQL3vEcRKwKFhw5p.jpg",
+                        "/jxa7sQTcPgJVKScjKUELavMlY6X.jpg",
+                        "/xoZXVMpRsPUaOy74P7c76IwacaS.jpg",
+                        "/hHMJVrNribT078sgqXLfsToPSS6.jpg",
+                        "/k3AvY9tRldVvFzMLT0dYwTwDHO7.jpg",
+                        "/jxln5KBolQBIzPIYXAot5RoGCVB.jpg",
+                        "/y4Y9RAz2WRAtLJH1sx5BTKF1c66.jpg",
+                        "/yvUcRcIDL5X2ImscVDJR0Hs6Zqq.jpg",
+                        "/fdjFnzzi1us4dqbdrnk1IwzF0OZ.jpg",
+                        "/bjangmx4vE0uP3Dl8F3JxFhf3R9.jpg",
+                        "/5vxlGR6fwb54uvJyIvugL8O7eUo.jpg",
+                        "/t3dFVUyZVXx4deX7hVPCUIEVzLo.jpg",
+                        "/1SrhTJRmgeShZrKV9FGunk4ZKT6.jpg",
+                        "/vdWZyT7SWGpojyV8bxmpfA7S1n1.jpg",
+                        "/bIFSuB4W1wITdojEHjT1gxfJmMe.jpg"
+                    ],
+                    "youtubeTrailerIds": [
+                        "4_eaoA8ZMmo",
+                        "d2k4QAItiSA",
+                        "gR4DS51rAus",
+                        "DXxIuG_-6xU",
+                        "kEnzbMVsKKQ",
+                        "_TRVlVB_4LQ",
+                        "ziKvQo1WCRE"
+                    ],
+                    "plotSummary": "Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after he stumbles upon Nazi patrol, a breathtaking and gold-hungry chase through the destroyed and mined Lapland wilderness begins.",
+                    "numRatings": 213,
+                    "avgRating": 3.47183,
+                    "releaseYear": "2023"
+                },
+                "movieUserData": {
+                    "userId": 326672,
+                    "movieId": 283139,
+                    "rating": null,
+                    "dateRated": null,
+                    "prediction": 3.518811680927563,
+                    "wishlist": false,
+                    "hidden": false,
+                    "predictionDetails": {
+                        "primaryPrediction": 3.518811680927563,
+                        "primaryPredictionType": "USER",
+                        "components": [
+                            {
+                                "pred": 3.518811680927563,
+                                "type": "USER"
+                            },
+                            {
+                                "pred": 3.5890651590156253,
+                                "type": "FALLBACK"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "movieId": 282983,
+                "rec_val_type": "",
+                "tstamp": null,
+                "movie": {
+                    "movieId": 282983,
+                    "tmdbMovieId": 866413,
+                    "imdbMovieId": "14826022",
+                    "title": "You People",
+                    "originalTitle": "You People",
+                    "mpaa": "R",
+                    "runtime": 117,
+                    "releaseDate": "2023-01-20",
+                    "dvdReleaseDate": null,
+                    "genres": [
+                        "Romance",
+                        "Comedy"
+                    ],
+                    "languages": [
+                        "English"
+                    ],
+                    "directors": [
+                        "Kenya Barris"
+                    ],
+                    "actors": [
+                        "Jonah Hill",
+                        "Lauren London",
+                        "Eddie Murphy",
+                        "Julia Louis-Dreyfus",
+                        "Sam Jay",
+                        "Nia Long",
+                        "Travis Bennett",
+                        "David Duchovny",
+                        "Molly Gordon",
+                        "Deon Cole",
+                        "Andrea Savage",
+                        "Elliott Gould",
+                        "Rhea Perlman",
+                        "Mike Epps",
+                        "La La Anthony",
+                        "Yung Miami",
+                        "Khadijah Haqq McCray",
+                        "Bryan Greenberg",
+                        "Jordan Firstman",
+                        "Andrew Schulz",
+                        "Matt Walsh",
+                        "Emily Arlook",
+                        "Hal Linden",
+                        "Winnie Holzman",
+                        "Richard Benjamin",
+                        "Doug Hall",
+                        "Anthony Anderson",
+                        "Malik S.",
+                        "Ian Sargent Phillips",
+                        "Ahmad Dugas",
+                        "Nelson Franklin",
+                        "Rob Huebel",
+                        "Murray Gray",
+                        "Felipe Esparza",
+                        "Kym Whitley",
+                        "Doris Hancox",
+                        "Romy Reiner",
+                        "Marla Garlin",
+                        "Marcus Mullins",
+                        "Kash Abdulmalik",
+                        "Emily G. Miller",
+                        "Reese Levine",
+                        "Alana Jackson",
+                        "Amy Bernstein",
+                        "Todd Shotz",
+                        "Chayim Frenkel",
+                        "DJ Drama",
+                        "Kenya Barris",
+                        "Robert Diago DoQui",
+                        "Chinyere Dobson",
+                        "Pason"
+                    ],
+                    "posterPath": "/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg",
+                    "backdropPaths": [
+                        "/c9yVIqnrD6fyYhNzNcvAoU6CFG.jpg",
+                        "/tzah8kKS3DusxrdpOk1gsLdpbUP.jpg",
+                        "/xiNSJe8qt7noe06WiC5g7eJn5Ed.jpg",
+                        "/xapTI3315ZbqzyN2phb1jiNeDQX.jpg",
+                        "/h7saulBydwO8sdPTbg9uyEK9Evr.jpg",
+                        "/4OzePkzt4V4qvem0M1Slx5SRGW8.jpg",
+                        "/rcOwuqy6FegOvNwLcd3Qx9xnx6J.jpg",
+                        "/eLSOruntouO5L0Q5PT97I1NGClm.jpg",
+                        "/9o1orGqWf6nLNk5hMjDjfmvAWoS.jpg",
+                        "/i4lZ2bRpkVC1PPyoTQQZxvtOBhv.jpg",
+                        "/g9GmR1BTYAmzm8Pemfd6YKFfF6C.jpg",
+                        "/3z2mmip5nTHPyBCtDyFlh0BXOw9.jpg",
+                        "/wrJp8SAfLwcENWkxGXcccSp0hnM.jpg",
+                        "/3fLjJHJzdhr9mM8b46vcVgxF3UZ.jpg"
+                    ],
+                    "youtubeTrailerIds": [
+                        "Lcd0df7jwpM",
+                        "pCMHc-IFAB0",
+                        "JbzBelznMoM",
+                        "7lSzGK5HR1M",
+                        "gchPb1y3iMM",
+                        "zHwf7OZRCnk"
+                    ],
+                    "plotSummary": "A new couple and their families reckon with modern love amid culture clashes, societal expectations and generational differences.",
+                    "numRatings": 161,
+                    "avgRating": 2.81366,
+                    "releaseYear": "2023"
+                },
+                "movieUserData": {
+                    "userId": 326672,
+                    "movieId": 282983,
+                    "rating": null,
+                    "dateRated": null,
+                    "prediction": 3.5495596125092534,
+                    "wishlist": false,
+                    "hidden": false,
+                    "predictionDetails": {
+                        "primaryPrediction": 3.5495596125092534,
+                        "primaryPredictionType": "USER",
+                        "components": [
+                            {
+                                "pred": 3.5495596125092534,
+                                "type": "USER"
+                            },
+                            {
+                                "pred": 3.021355047110118,
+                                "type": "FALLBACK"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "movieId": 282843,
+                "rec_val_type": "",
+                "tstamp": null,
+                "movie": {
+                    "movieId": 282843,
+                    "tmdbMovieId": 768362,
+                    "imdbMovieId": "10855768",
+                    "title": "Missing",
+                    "originalTitle": "Missing",
+                    "mpaa": "PG-13",
+                    "runtime": 111,
+                    "releaseDate": "2023-01-19",
+                    "dvdReleaseDate": null,
+                    "genres": [
+                        "Thriller",
+                        "Mystery"
+                    ],
+                    "languages": [
+                        "Español",
+                        "English"
+                    ],
+                    "directors": [
+                        "Nicholas D. Johnson",
+                        "Will Merrick"
+                    ],
+                    "actors": [
+                        "Storm Reid",
+                        "Joaquim de Almeida",
+                        "Ken Leung",
+                        "Amy Landecker",
+                        "Daniel Henney",
+                        "Nia Long",
+                        "Megan Suri",
+                        "Tim Griffin",
+                        "Rick Chambers",
+                        "Tracy Vilar",
+                        "Kimberly Cheng",
+                        "Dalila Ali Rajah",
+                        "Kendal Evans",
+                        "Jalil Jay Lynch",
+                        "Lauren B. Mosley",
+                        "Lisa Yamada",
+                        "Sharar Ali-Speakes",
+                        "Michael Segovia",
+                        "Jameel Shivji",
+                        "Monica Bhatnagar",
+                        "Marcello Padilla",
+                        "Rita Rucker",
+                        "Ava Zaria Lee",
+                        "Roy Abramsohn",
+                        "Briana McLean",
+                        "Karina Noelle Castillo",
+                        "Jasmin Savoy Brown",
+                        "Viviana Salinas",
+                        "Juan Carlos Goméz Ortega",
+                        "Danielle Nottingham",
+                        "Thomas Barbusca",
+                        "Esteban Dager",
+                        "Sean O'Bryan",
+                        "Zeke Alton",
+                        "Billie Jordan",
+                        "Dalila Ali Rajah",
+                        "Jill Smith",
+                        "Oscar Camacho",
+                        "Scott Menville",
+                        "Wolfie Trausch",
+                        "Kelly Stables",
+                        "Javier Grajeda",
+                        "Mauricio Mendoza",
+                        "Jill Remez"
+                    ],
+                    "posterPath": "/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg",
+                    "backdropPaths": [
+                        "/tVH1qEFyKiCpP6kNDFyXKW2Tiif.jpg",
+                        "/A5JyEZvXHbPLN2cU65oB9NaIuYH.jpg",
+                        "/v00b8mXHVqJwM6aMDJTGiqIZS72.jpg",
+                        "/dhfU1d6V25BGEHDAoPrERQFmsl2.jpg",
+                        "/pLkIOiCveBW0APyzbA0RK4dvmrF.jpg",
+                        "/uSxKHK3Xhzv0GtBN0uLdMshupc1.jpg",
+                        "/k2oVO2sedhmKTapPMXrerFanfHK.jpg",
+                        "/fDiaDJfoZhpdfUV6GtpyWLHgS0.jpg",
+                        "/sPtfzbuxa2PZfIYml4QstKJFLW4.jpg",
+                        "/9aNgqF5TnxKkqNagt7NGdha3f6k.jpg",
+                        "/t3wuL9vL3Qb7dFkELpXs85fc6Ww.jpg",
+                        "/2aSeeaX1oxUwClsvEltmBfbHy5M.jpg",
+                        "/bb4oBy6lg4pBr1KTRObi8puGjoT.jpg",
+                        "/wFkS4IV5rwJPYRjvFgPZxIUbBhK.jpg",
+                        "/e264Rv6DCOXw6T3iTKe3dvdGL33.jpg",
+                        "/8s2HvnkgH3ekrcDyIT5WLsQoklf.jpg",
+                        "/g8MCsanpZgIfq8hwqLIvKWdLr4B.jpg",
+                        "/mfx7iopuVBFxksDfzpwyt30Dj7d.jpg",
+                        "/rAkaKdnXkhMxCbjgI03ljepGNcO.jpg"
+                    ],
+                    "youtubeTrailerIds": [
+                        "seBixtcx19E",
+                        "QjxVxmo2z_g",
+                        "a4ujFNEv74M",
+                        "FP-qnHxe4AI",
+                        "pbd5HNYGtuU",
+                        "2vOxHTVJ-Gw",
+                        "LPjPbWsZTf0",
+                        "qd7wHji5pLE",
+                        "g1Jbe28Gyqc"
+                    ],
+                    "plotSummary": "When her mother disappears while on vacation in Colombia with her new boyfriend, June’s search for answers is hindered by international red tape. Stuck thousands of miles away in Los Angeles, June creatively uses all the latest technology at her fingertips to try and find her before it’s too late. But as she digs deeper, her digital sleuthing raises more questions than answers... and when June unravels secrets about her mom, she discovers that she never really knew her at all.",
+                    "numRatings": 191,
+                    "avgRating": 3.51832,
+                    "releaseYear": "2023"
+                },
+                "movieUserData": {
+                    "userId": 326672,
+                    "movieId": 282843,
+                    "rating": null,
+                    "dateRated": null,
+                    "prediction": 3.9764498571696727,
+                    "wishlist": false,
+                    "hidden": false,
+                    "predictionDetails": {
+                        "primaryPrediction": 3.9764498571696727,
+                        "primaryPredictionType": "USER",
+                        "components": [
+                            {
+                                "pred": 3.9764498571696727,
+                                "type": "USER"
+                            },
+                            {
+                                "pred": 3.630903675938939,
+                                "type": "FALLBACK"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "movieId": 280310,
+                "rec_val_type": "",
+                "tstamp": null,
+                "movie": {
+                    "movieId": 280310,
+                    "tmdbMovieId": 994143,
+                    "imdbMovieId": "21307994",
+                    "title": "Skinamarink",
+                    "originalTitle": "Skinamarink",
+                    "mpaa": "NR",
+                    "runtime": 100,
+                    "releaseDate": "2023-01-13",
+                    "dvdReleaseDate": null,
+                    "genres": [
+                        "Horror",
+                        "Mystery"
+                    ],
+                    "languages": [
+                        "English"
+                    ],
+                    "directors": [
+                        "Kyle Edward Ball"
+                    ],
+                    "actors": [
+                        "Lucas Paul",
+                        "Dali Rose Tetreault",
+                        "Ross Paul",
+                        "Jaime Hill",
+                        "Kyle Edward Ball"
+                    ],
+                    "posterPath": "/o942912KFh89SGhqWuKXuT0SXzN.jpg",
+                    "backdropPaths": [
+                        "/8Y0RxH5cXiKV8C9Wyj6JkW9VYaG.jpg",
+                        "/rryI5WchAXVJKazxnZeGalvSllc.jpg",
+                        "/FGQDGYcW4JwWrf9PTRQwsHDnJw.jpg",
+                        "/cTG4dJZQNxWGxDKfdaWe0ZfNZEQ.jpg",
+                        "/gvg39vi2j6U95KAvDbxgr2mvpfl.jpg",
+                        "/qGPOhVy9WZxHJSgbbLmfwBTSKLu.jpg",
+                        "/61qC9Jx98JsRSFkw90XLbnOeLJX.jpg",
+                        "/4fGCokmX633SvBsBwHXu3A6WJvq.jpg",
+                        "/eZF7feu1Zth12ZVC1C2nCsbzrZy.jpg",
+                        "/xlafZgdDefCmqB9KJXm8R6vVCeI.jpg",
+                        "/nMQkFJcfaFqZsSml3IrEPXGqGBl.jpg",
+                        "/q3E2CMxQX23XKWL4LU9VwTDXcSy.jpg",
+                        "/1lgMBTgxlJ0rJ7zke9SVuTkyG1Z.jpg",
+                        "/3jeEak26nJqnw3cUWteMID9d5P6.jpg"
+                    ],
+                    "youtubeTrailerIds": [
+                        "APQqilSTxz0"
+                    ],
+                    "plotSummary": "Two children wake up in the middle of the night to find their father is missing, and all the windows and doors in their home have vanished.",
+                    "numRatings": 102,
+                    "avgRating": 2.85294,
+                    "releaseYear": "2023"
+                },
+                "movieUserData": {
+                    "userId": 326672,
+                    "movieId": 280310,
+                    "rating": null,
+                    "dateRated": null,
+                    "prediction": 3.154567299564706,
+                    "wishlist": false,
+                    "hidden": false,
+                    "predictionDetails": {
+                        "primaryPrediction": 3.154567299564706,
+                        "primaryPredictionType": "USER",
+                        "components": [
+                            {
+                                "pred": 3.154567299564706,
+                                "type": "USER"
+                            },
+                            {
+                                "pred": 3.0982349091063095,
+                                "type": "FALLBACK"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "movieId": 282671,
+                "rec_val_type": "",
+                "tstamp": null,
+                "movie": {
+                    "movieId": 282671,
+                    "tmdbMovieId": 646389,
+                    "imdbMovieId": "5884796",
+                    "title": "Plane",
+                    "originalTitle": "Plane",
+                    "mpaa": "R",
+                    "runtime": 107,
+                    "releaseDate": "2023-01-12",
+                    "dvdReleaseDate": null,
+                    "genres": [
+                        "Action",
+                        "Adventure",
+                        "Thriller"
+                    ],
+                    "languages": [
+                        "English",
+                        "Türkçe"
+                    ],
+                    "directors": [
+                        "Jean-François Richet"
+                    ],
+                    "actors": [
+                        "Gerard Butler",
+                        "Mike Colter",
+                        "Tony Goldwyn",
+                        "Yoson An",
+                        "Evan Dane Taylor",
+                        "Paul Ben-Victor",
+                        "Daniella Pineda",
+                        "Lilly Krug",
+                        "Kelly Gale",
+                        "Otis Winston",
+                        "Ángel Fabián Rivera",
+                        "Fernando Chang",
+                        "Modesto Lacen",
+                        "Joey Slotnick",
+                        "Rose Eshay",
+                        "Ricky Robles Cruz",
+                        "Jessica Nam",
+                        "Quinn McPherson",
+                        "Oliver Trevena",
+                        "Tara Westwood",
+                        "Michelle Lee",
+                        "Amber Rivera",
+                        "John J. Shim",
+                        "Claro de los Reyes",
+                        "Remi Adeleke",
+                        "Matt Cook",
+                        "Pete Scobell",
+                        "James Sang Lee",
+                        "Heather Seiffert",
+                        "Haleigh Hekking",
+                        "Jeremy Denzlinger",
+                        "Edwin Lee",
+                        "Yao Tsai",
+                        "Jeff Francisco",
+                        "Ariel Felix",
+                        "Nick Brandon",
+                        "Michelle Cortés",
+                        "Jeffrey Holsman",
+                        "Enele Ma'afu Tauteoli",
+                        "Jimmy Fung",
+                        "Manuel Álvarez Kim",
+                        "Kate Bisset",
+                        "Kate Rachesky"
+                    ],
+                    "posterPath": "/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",
+                    "backdropPaths": [
+                        "/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg",
+                        "/6JU2ysRVOHqav0Hs6BUv4mvvDxZ.jpg",
+                        "/oxITEUCBnu0R1X7mJLBjTBK3do3.jpg",
+                        "/sgz16oJ5sKUGcwy96OjSrujqmuI.jpg",
+                        "/irwQcdjwtjLnaA0iErabab9PrmG.jpg",
+                        "/biX1kATZxFskWajql2hfEo8GqTd.jpg",
+                        "/rwkWUOZ2AVGz7f3LHjF0Uzd9dWl.jpg",
+                        "/3MBtBYD6QPgLVL4Tnzv2pfUoM7W.jpg",
+                        "/uO28ZohBXYQ35rAZCG8hacsTcV0.jpg",
+                        "/hTOgIizTEBbN846RRtbJDbkGPEY.jpg",
+                        "/63LMVKVwPSHBNqhDTlOtrw2z4rD.jpg",
+                        "/oLkiMuX36e5vgi9wuZj1Lf1xYjy.jpg",
+                        "/jIlS9xYTy746k25o5nkVWcmrGLR.jpg",
+                        "/sF4tndxUEd4IZ08tjK7hfVTM22.jpg",
+                        "/euPYE4HDZWijTQjvFICArkeNXTw.jpg",
+                        "/5NS1uy2qBp7p6owDFy3dVIG0RPL.jpg",
+                        "/4tpsq1rsskb91rCFzPWnUUG1o6L.jpg",
+                        "/aCWzIOV7LimY9HKrIdREsfGrjPt.jpg",
+                        "/o028h6QGj3oifR8utEiwmV7Gdwq.jpg",
+                        "/swMV8W1p40AF20dJyGhMq82AKlD.jpg",
+                        "/AniRRxX4fzHtPKN3BYOaZt1wqKD.jpg",
+                        "/sm1DWACXZiTbaBaLZmoEdcHlDU2.jpg",
+                        "/sSDbkdufZnsM2p3RxbSGygKXBpN.jpg",
+                        "/1tPzSFoKBCvO21An4icQEIDKfxZ.jpg",
+                        "/wg1iZEatqaAKszNBBGi27OxY4Bo.jpg",
+                        "/bp0K3YIjcvZFoWHUaX6ITicINg1.jpg"
+                    ],
+                    "youtubeTrailerIds": [
+                        "M25zXBIUVr0",
+                        "7-6_Ulo7mdk",
+                        "DBu0tjmdQfs",
+                        "xsSS8kAP4ho",
+                        "BSqa-qExs6k",
+                        "kHtsV9z1Q3E",
+                        "tlzO2kvAjlw",
+                        "zMjrrvXA-iI",
+                        "SIQD0pUpC_Q"
+                    ],
+                    "plotSummary": "After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage.",
+                    "numRatings": 193,
+                    "avgRating": 3.21503,
+                    "releaseYear": "2023"
+                },
+                "movieUserData": {
+                    "userId": 326672,
+                    "movieId": 282671,
+                    "rating": null,
+                    "dateRated": null,
+                    "prediction": 3.3537905087582596,
+                    "wishlist": false,
+                    "hidden": false,
+                    "predictionDetails": {
+                        "primaryPrediction": 3.3537905087582596,
+                        "primaryPredictionType": "USER",
+                        "components": [
+                            {
+                                "pred": 3.3537905087582596,
+                                "type": "USER"
+                            },
+                            {
+                                "pred": 3.362364240147551,
+                                "type": "FALLBACK"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "movieId": 282561,
+                "rec_val_type": "",
+                "tstamp": null,
+                "movie": {
+                    "movieId": 282561,
+                    "tmdbMovieId": 739405,
+                    "imdbMovieId": "7985704",
+                    "title": "Operation Fortune: Ruse de Guerre",
+                    "originalTitle": "Operation Fortune: Ruse de Guerre",
+                    "mpaa": "R",
+                    "runtime": 114,
+                    "releaseDate": "2023-01-04",
+                    "dvdReleaseDate": null,
+                    "genres": [
+                        "Action",
+                        "Thriller",
+                        "Comedy"
+                    ],
+                    "languages": [
+                        "English"
+                    ],
+                    "directors": [
+                        "Guy Ritchie"
+                    ],
+                    "actors": [
+                        "Jason Statham",
+                        "Aubrey Plaza",
+                        "Josh Hartnett",
+                        "Hugh Grant",
+                        "Cary Elwes",
+                        "Bugzy Malone",
+                        "Peter Ferdinando",
+                        "Eddie Marsan",
+                        "Lourdes Faberes",
+                        "Max Beesley",
+                        "Sam Douglas",
+                        "Aksel Üstün",
+                        "Oliver Maltman",
+                        "Ergun Kuyucu",
+                        "Eugenia Kuzmina",
+                        "Vincent Wang",
+                        "Kaan Urgancıoğlu",
+                        "Tim Seyfi",
+                        "Nicholas Facey",
+                        "Ian Bartholomew",
+                        "Tom Rosenthal",
+                        "Parker Sawyers",
+                        "Ayhan Eroğlu",
+                        "Savaş Ak",
+                        "Matthew Hawksley",
+                        "Zehra Karadağ",
+                        "Oleksandra Zharikova",
+                        "Mishel Lazarenko",
+                        "Bensu Uğur",
+                        "Merve Akman",
+                        "Ozan Ayhan",
+                        "Doğan Barış Yaşar",
+                        "Bestemsu Özdemir",
+                        "Kerim Pehlivan",
+                        "Conor MacNeill",
+                        "Begzat Ergeshov",
+                        "Çağdaş Agun",
+                        "Gökhan Demirbaş",
+                        "Md Numan Ahmed",
+                        "Antonio Bustorff",
+                        "Joshua Flickema",
+                        "Amy Jackson",
+                        "Sinan Yildiz"
+                    ],
+                    "posterPath": "/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg",
+                    "backdropPaths": [
+                        "/7TdVWAO7vV9j1OLDq1hQJS3pb4U.jpg",
+                        "/6ZZjNFjTlO9F25467CruIibwuxl.jpg",
+                        "/sNnPbPopZxGO3s7Hd5qcqoMyLXl.jpg",
+                        "/2eM1odXVzrtG4Udu2Q5sb6newHP.jpg",
+                        "/euMVxfWuMpKrToJDGYoj6GGYtqk.jpg",
+                        "/vnCG14tDcOIFwe4CKnSdbPXFUqP.jpg",
+                        "/ckoDfYjHu9BkM30WIo5sWDJe8Cy.jpg",
+                        "/vWhsupMyyjRST1AojFWTdRO4Kt6.jpg",
+                        "/3eFdX3W2WoE4Kb7RFO8WFzlPQ4C.jpg",
+                        "/2mJLX6OaQHACvPhkPTEPHjO7p5o.jpg",
+                        "/tGeupwlfWOwxXXXghlHX7QeJufW.jpg",
+                        "/l3q0yQbVEat484nPshqh7iuKTLh.jpg",
+                        "/tPGNGGcB5nzCM39tCYTQ1luJxtG.jpg",
+                        "/9cIWnCmXIsmGbXR5HApifBe5xLM.jpg",
+                        "/sMv6P9nbe7ECmw0UwfpbccEm451.jpg",
+                        "/r3gADYpAIhzZmC6PZym6owFFlSq.jpg",
+                        "/iG8AulBL8iQQAdvWU5cp8iJPQy1.jpg",
+                        "/fjoUZgtwNie2nMwmNanGFjh3wkY.jpg",
+                        "/2sNiNVXmME5ME9nF0ftpSeaIypb.jpg",
+                        "/mEJCaGvXEYF4nIGnvg9RYEWM2Jc.jpg",
+                        "/qF87z03MeaVc52rVKILzvI4RBYS.jpg",
+                        "/lgsTmz8Yuxs8GtozH0XQ72qtiSX.jpg",
+                        "/jnEpsnjXlALxWb06PdWCZE9eTIT.jpg",
+                        "/2vryem1heu4uYC5upDZxOvB2Uvb.jpg",
+                        "/kaP27lg6HSEoYqMTyFNyYxllhge.jpg",
+                        "/7M0Rv8IT9qInC5LQtKf7wzXrkbR.jpg",
+                        "/qoyqtCKFJubv942Eqd3lAtwYZTy.jpg",
+                        "/6gVxbVJRYNA4LWuUQV0EsEGPtY7.jpg",
+                        "/9TeV1CrR0pL0BfKUsUcPRied9Ea.jpg",
+                        "/d482HV4EblK8vcQEdZHCedxKxN8.jpg",
+                        "/vlMNidRUpVGRMeylF7PF90EA3Bk.jpg"
+                    ],
+                    "youtubeTrailerIds": [
+                        "W8Sqk1GcqxY",
+                        "WdZ-BWWQcWQ",
+                        "O35gkeTun1w",
+                        "rFrAzPK9ru0",
+                        "-mGE5B2sXKY",
+                        "iuntihpAo8A",
+                        "YqBvFiG-AXA"
+                    ],
+                    "plotSummary": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+                    "numRatings": 206,
+                    "avgRating": 3.10437,
+                    "releaseYear": "2023"
+                },
+                "movieUserData": {
+                    "userId": 326672,
+                    "movieId": 282561,
+                    "rating": null,
+                    "dateRated": null,
+                    "prediction": 3.421469578640853,
+                    "wishlist": false,
+                    "hidden": false,
+                    "predictionDetails": {
+                        "primaryPrediction": 3.421469578640853,
+                        "primaryPredictionType": "USER",
+                        "components": [
+                            {
+                                "pred": 3.421469578640853,
+                                "type": "USER"
+                            },
+                            {
+                                "pred": 3.2615877559436166,
+                                "type": "FALLBACK"
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "pager": {
+            "itemsPerPage": 24,
+            "totalItems": 56,
+            "currentPage": 3,
+            "totalPages": 3
+        }
+    }
+}

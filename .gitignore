@@ -1,0 +1,5 @@
+embeddings/*
+images/*
+
+*.pyc
+__pycache__/
