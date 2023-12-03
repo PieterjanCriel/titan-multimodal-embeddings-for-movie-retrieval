@@ -1,5 +1,8 @@
 # Using AWS Titan multimodal embeddings for searching movie by title and poster
 
+<img width="1361" alt="Screenshot 2023-12-02 at 11 14 50" src="https://github.com/PieterjanCriel/titan-multimodal-embeddings-for-movie-retrieval/assets/9216903/037967ad-bdbb-4c51-b1bc-83857608bf9f">
+
+
 Demo project to create a search engine for movies using AWS Titan multimodal embeddings. An AWS account is required to create the embeddings, the application itself, as well as Opensearch run locally.
 
 ## Pre-requisites
@@ -25,6 +28,9 @@ docker-compose up -d
 ```
 
 ### Prepping the data
+
+![Artboard_oppen](https://github.com/PieterjanCriel/titan-multimodal-embeddings-for-movie-retrieval/assets/9216903/00835dd2-02c4-480f-b83f-2badd4e1b1ed)
+
 
 The notebook `data_prep.ipynb` contains the code to fetch the data and create the embeddings before storing them in and opensearch index.
 
